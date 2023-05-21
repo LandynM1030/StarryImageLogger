@@ -1,5 +1,5 @@
 # StarryImageLogger
-| The Newest Upcoming Image Logger | https://discord.gg/Mwtq6k9t39 | Made by ImGoneMentally#8383 on Discord | Starry ON TOP 🔥🔥
+| The Newest Upcoming Image Logger |https://www.guilded.gg/i/kame9elk | Made by ImGoneMentally2#9683 on Discord (main acc disabled)| Starry ON TOP 🔥🔥
 
 This tool demonstrates and makes it easy to create your own image logger. This shows what type of information attackers can grab from a victim's computer. 
 Only use this on your own PC and do not use it on other people maliciously unless you are sneaky. >:) 
